@@ -1,2 +1,2 @@
-# LIGHT-DATA-TRANSFER-SYSTEM
-i2c scan code is used to scan the i2c devices connected and alive
+
+i2c scan code is us i2c devices connected and alive
